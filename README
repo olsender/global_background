@@ -1,0 +1,4 @@
+Plugin changes the background globally.
+Introduces two commands: Dark and Light.
+After changing the background with those commands all new vim instances will
+open with the same background.
